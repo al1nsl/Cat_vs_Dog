@@ -6,9 +6,7 @@ __pycache__/
 
 *.h5
 *.keras
-saved_model/
-checkpoints/
 
-# ML artifacts
+checkpoints/
 models/
-dataset/
+
