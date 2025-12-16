@@ -1,0 +1,14 @@
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+*.h5
+*.keras
+saved_model/
+checkpoints/
+
+# ML artifacts
+models/
+dataset/

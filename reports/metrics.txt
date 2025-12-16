@@ -1,0 +1,12 @@
+[initial]
+loss: 0.125814
+accuracy: 0.952604
+f1: 0.953453
+roc_auc: 0.994377
+
+[finetuned]
+loss: 0.110025
+accuracy: 0.960938
+f1: 0.962779
+roc_auc: 0.994616
+
